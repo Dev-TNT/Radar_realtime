@@ -28,8 +28,8 @@ cản, và **vùng bị che khuất (shadow) phía sau vật cản**.
 
 ```
 Radar_realtime/
-├── main.cpp            # Firmware Arduino: quét servo 0↔180°, đo HC-SR04, gửi Serial
-├── radar_pygame.py      # Ứng dụng hiển thị radar bằng Pygame
+├── C_radar_rotating_mode.cpp            # Firmware Arduino: quét servo 0↔180°, đo HC-SR04, gửi Serial
+├── Python_Radar_detector.py      # Ứng dụng hiển thị radar bằng Pygame
 └── README.md
 ```
 
