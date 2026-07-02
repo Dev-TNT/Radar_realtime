@@ -8,6 +8,7 @@ cản, và **vùng bị che khuất (shadow) phía sau vật cản**.
 ![status](https://img.shields.io/badge/status-hoạt%20động-brightgreen)
 
 ---
+![Radar](radar_system.png)
 
 ## Tính năng
 
